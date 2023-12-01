@@ -9,7 +9,7 @@
   - Natural Language Processing
   - Mobiel Applications & Games
 - 🔭 I’m currently working on an image processing model for face recognition using neural network deployed in an android application
-- 🌱 I’m currently learning various pretrained ml models
+- 🌱 I’m currently learning various pretrained ml models and how to manipulate them
 - 📫 You can reach me by aabelbasi@gmail.com <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 <br>
 
