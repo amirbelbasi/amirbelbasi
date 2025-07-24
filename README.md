@@ -1,7 +1,10 @@
 ## Hi there 👋
 
-- 🏫 Bachelor of CE at Tehran Polytechnic (AUT) 
+- 🏫 PhD @ University of Texas at Arlington
+- 🏫 Bachelor of CE @ Tehran Polytechnic (AUT) 
 - 📚 My research interest fields
+  - Information Theory
+  - Communication Theory
   - Image Processing applied in various fields
   - Deep Learning
   - Computer Vision
