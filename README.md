@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🏫 PhD @ University of Texas at Arlington
+- 🏫 PhD of CS @ University of Texas at Arlington (UTA)
 - 🏫 Bachelor of CE @ Tehran Polytechnic (AUT) 
 - 📚 My research interest fields
   - Information Theory
